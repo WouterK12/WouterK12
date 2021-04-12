@@ -12,4 +12,4 @@ It can do many more things, check it out!
 
 <hr>
 
-![Metrics](https://github.com/WouterK12/WouterK12/blob/master/github-metrics.svg)
+<!-- ![Metrics](https://github.com/WouterK12/WouterK12/blob/master/github-metrics.svg) -->

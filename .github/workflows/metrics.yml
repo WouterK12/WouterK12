@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 1 * * *" }]
+  # schedule: [{ cron: "0 1 * * *" }]
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -10,9 +10,10 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
+          template: none
+
           plugin_introduction: yes
           plugin_lines: no
-          plugin_traffic: no
 
           # most used languages
           plugin_languages: yes
