@@ -12,4 +12,4 @@ It can do many more things, check it out!
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WouterK12&layout=compact">
+![Metrics](https://github.com/WouterK12/WouterK12/blob/master/github-metrics.svg)
